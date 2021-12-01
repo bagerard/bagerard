@@ -8,7 +8,7 @@
 
 You can find me on:
 
-* [StackOverflowas @bagerard](https://stackoverflow.com/users/6203472/bagerard) 
+* [StackOverflow @bagerard](https://stackoverflow.com/users/6203472/bagerard) 
 * [Twitter as @bastgerard](https://twitter.com/bastgerard)
 * [GitHub as @bagerard (you are here)](https://github.com/bagerard)
 * [LinkedIn](https://www.linkedin.com/in/bastiengerard/)
